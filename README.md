@@ -1,4 +1,4 @@
-# Olá! Eu sou o [Seu Nome] 👋
+# Olá! Eu sou o Luiz Gabriel 👋
 
 Tenho 18 anos e sou entusiasta de tecnologia, focado em construir projetos práticos e aprender novas ferramentas todos os dias. Atualmente exploro o desenvolvimento com **Python** e **HTML**, integrando **Inteligência Artificial** no meu fluxo de trabalho para acelerar a criação de soluções e resolver problemas.
 
