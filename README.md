@@ -25,16 +25,7 @@ Aqui estão as principais linguagens e ferramentas de IA que utilizo no meu dia 
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Como falar comigo
 
-- **E-mail:** seuemail@exemplo.com
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil) *(opcional — pode apagar esta linha se ainda não tiver)*
+- **E-mail:** lgfmiele1@gmail.com
+- **LinkedIn:** [Luiz Gabriel Ferreira Miele](https://linkedin.com/in/Luiz-Gabriel-FM) 
