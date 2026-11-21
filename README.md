@@ -28,4 +28,4 @@ Aqui estão as principais linguagens e ferramentas de IA que utilizo no meu dia 
 ### 📫 Como falar comigo
 
 - **E-mail:** lgfmiele1@gmail.com
-- **LinkedIn:** [Luiz Gabriel Ferreira Miele](https://linkedin.com/in/Luiz-Gabriel-FM) 
+- **LinkedIn:** [Luiz Gabriel Ferreira Miele]([https://linkedin.com/in/Luiz-Gabriel-FM](https://www.linkedin.com/in/luiz-gabriel-fm-a989613a7/)) 
