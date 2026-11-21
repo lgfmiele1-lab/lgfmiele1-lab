@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou o [Seu Nome] 👋
 
-<!--
-**lgfmiele1-lab/lgfmiele1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos e sou entusiasta de tecnologia, focado em construir projetos práticos e aprender novas ferramentas todos os dias. Atualmente exploro o desenvolvimento com **Python** e **HTML**, integrando **Inteligência Artificial** no meu fluxo de trabalho para acelerar a criação de soluções e resolver problemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+
+Aqui estão as principais linguagens e ferramentas de IA que utilizo no meu dia a dia:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 O que estou fazendo agora
+
+- 💻 Desenvolvendo projetos pessoais e scripts com **Python** e **HTML**.
+- 🤖 Aprimorando técnicas de **AI-Assisted Development** utilizando **Gemini** e **Claude** para prototipagem rápida, revisão de código e aprendizado.
+- 📚 Estudando boas práticas de programação e controle de versão com Git/GitHub.
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Como falar comigo
+
+- **E-mail:** seuemail@exemplo.com
+- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil) *(opcional — pode apagar esta linha se ainda não tiver)*
